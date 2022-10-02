@@ -1,0 +1,1 @@
+export const FullName = () => <div className="full-name">Youcef TALEB</div>;
